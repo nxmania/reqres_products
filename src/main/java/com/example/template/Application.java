@@ -40,6 +40,7 @@ public class Application {
 
             i++;
             productRepository.save(product);
+            // 추가
         }
     }
 
